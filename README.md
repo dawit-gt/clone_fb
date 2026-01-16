@@ -1,16 +1,9 @@
-# enbla
+Cloning Facebook Splash, Login, and Home Pages
 
-A new Flutter project.
+In this project, the splash screen, login page, and home page of Facebook were cloned to understand real-world mobile UI design and application flow. The splash screen was designed to closely resemble Facebook’s original splash layout, focusing on simplicity, brand identity, and smooth transition into the app. It serves as the first interaction point and gives users a familiar visual experience.
 
-## Getting Started
+The login page clone includes essential elements such as input fields for email and password, login buttons, and basic validation. This page was implemented to practice form handling, user input validation, and navigation between screens. The design follows Facebook’s minimal and clean layout to improve usability and user experience.
 
-This project is a starting point for a Flutter application.
+The home page clone focuses on layout structure rather than full backend functionality. It includes a top app bar, navigation icons, and a feed-style layout similar to Facebook’s home screen. This page helps demonstrate understanding of UI composition, reusable widgets/components, and screen organization in a real-world social media application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, cloning these pages helped in learning UI design consistency, navigation flow, and basic frontend development concepts used in modern mobile applications.
