@@ -8,6 +8,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "ansi_styles",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/ansi_styles-0.3.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "ansicolor",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/ansicolor-2.0.3",
       "packageUri": "lib/",
@@ -44,6 +50,24 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "checked_yaml",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "ci",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/ci-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "clock",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
@@ -74,6 +98,18 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "dart_console",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/dart_console-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "deep_pick",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/deep_pick-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3",
       "packageUri": "lib/",
@@ -84,6 +120,12 @@
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.5",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "firebase_auth",
@@ -158,6 +200,12 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "flutterfire_cli",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/flutterfire_cli-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "go_router",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-17.0.1",
       "packageUri": "lib/",
@@ -224,6 +272,24 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "interact",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/interact-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/json_annotation-4.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-11.0.2",
       "packageUri": "lib/",
@@ -284,6 +350,12 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "platform",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "plugin_platform_interface",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
@@ -294,6 +366,30 @@
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/posix-6.0.3",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/process-5.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/pub_semver-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "pub_updater",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/pub_updater-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/pubspec_parse-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
     },
     {
       "name": "sky_engine",
@@ -338,6 +434,12 @@
       "languageVersion": "3.5"
     },
     {
+      "name": "tint",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/tint-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.4.0",
       "packageUri": "lib/",
@@ -366,6 +468,12 @@
       "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///C:/Users/dawat/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
     },
     {
       "name": "xml",

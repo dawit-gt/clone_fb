@@ -51,11 +51,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA3QMrqjuEeV__fd7-4NlSCqIYgA9HxRx8',
-    appId: '1:228301483072:android:75abc5d8c6f0301761c3a5',
-    messagingSenderId: '228301483072',
-    projectId: 'facebook-clone-86509',
-    storageBucket: 'facebook-clone-86509.firebasestorage.app',
+    apiKey: 'AIzaSyBq3xhKvQB3bEELvCfsexxrzBVHUZYtmEk',
+    appId: '1:891907723545:android:4305167be0b6b05149b588',
+    messagingSenderId: '891907723545',
+    projectId: 'clonefacebook-655ea',
+    storageBucket: 'clonefacebook-655ea.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
@@ -64,7 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '228301483072',
     projectId: 'facebook-clone-86509',
     storageBucket: 'facebook-clone-86509.firebasestorage.app',
-    iosClientId: '228301483072-4uv0tkqn2qvhsgn8gif5hnok2jnn0h00.apps.googleusercontent.com',
+    iosClientId:
+        '228301483072-4uv0tkqn2qvhsgn8gif5hnok2jnn0h00.apps.googleusercontent.com',
     iosBundleId: 'com.example.facebookClone',
   );
 
@@ -74,7 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '228301483072',
     projectId: 'facebook-clone-86509',
     storageBucket: 'facebook-clone-86509.firebasestorage.app',
-    iosClientId: '228301483072-4uv0tkqn2qvhsgn8gif5hnok2jnn0h00.apps.googleusercontent.com',
+    iosClientId:
+        '228301483072-4uv0tkqn2qvhsgn8gif5hnok2jnn0h00.apps.googleusercontent.com',
     iosBundleId: 'com.example.facebookClone',
   );
 
